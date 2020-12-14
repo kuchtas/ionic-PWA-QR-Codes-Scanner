@@ -1,6 +1,6 @@
 {
-  "short_name": "Ionic App",
-  "name": "My Ionic App",
+  "short_name": "QR Codes Scanner PWA",
+  "name": "QR Codes Scanner PWA created with Ionic as a test for this technological stack",
   "icons": [
     {
       "src": "assets/icon/favicon.png",
@@ -8,9 +8,19 @@
       "type": "image/x-icon"
     },
     {
+      "src": "assets/icon/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icon/icon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
       "src": "assets/icon/icon.png",
       "type": "image/png",
-      "sizes": "512x512",
+      "sizes": "512x512 144x144",
       "purpose": "maskable"
     }
   ],
